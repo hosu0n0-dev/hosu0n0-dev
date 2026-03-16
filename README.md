@@ -1,16 +1,18 @@
-## Hi there 👋
+# 안녕하세요 👋, 호순(hosu0n0)입니다.
 
-<!--
-**hosu0n0-dev/hosu0n0-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![CAPL](https://img.shields.io/badge/CAPL-Vector-003399?style=flat-square&logo=Vector&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![hosu0n0-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosu0n0-dev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosu0n0-dev&layout=compact&theme=radical)
+
+---
+![Profile views](https://komarev.com/ghpvc/?username=hosu0n0-dev&color=blue)
